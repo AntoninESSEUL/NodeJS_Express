@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10" pages="2">
   <diagram name="Architecture" id="LwtyrS3WK_ljkUNi1cgM">
-    <mxGraphModel dx="1480" dy="1634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2477" dy="1634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,8 +73,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EupUgoVLVKRCz6Iabv77-11" value="Youtube&lt;div&gt;(cloud video storage)&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;spacing=2;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="40" width="200" height="120" as="geometry" />
+        <mxCell id="EupUgoVLVKRCz6Iabv77-11" value="&lt;span&gt;Youtube&lt;/span&gt;&lt;div&gt;&lt;span&gt;(cloud video storage)&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;spacing=2;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="29" width="235" height="131" as="geometry" />
         </mxCell>
         <mxCell id="EupUgoVLVKRCz6Iabv77-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1228" y="397" width="389" height="208" as="geometry" />
