@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GMzyumjZ9Sh3p2eSA_th" name="Project">
-    <mxGraphModel dx="2044" dy="2004" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="1546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,7 +211,7 @@
           <mxGeometry x="642" y="40" width="218" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RevIAESeMQVXkPuZwQy1-31" value="Users" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;gradientColor=none;fontSize=16;rounded=1;shadow=0;strokeColor=default;align=center;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1792" y="75" width="30" height="60" as="geometry" />
+          <mxGeometry x="1792" y="16" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RevIAESeMQVXkPuZwQy1-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=gap;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Lucida Console;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6SN0jveGzBdf29t5J0sO-2" target="RevIAESeMQVXkPuZwQy1-12">
           <mxGeometry relative="1" as="geometry">
@@ -254,7 +254,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bepFt1xsst9h107KD6ks-8" value="&lt;div&gt;Organize and set rights for videos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1423" y="446" width="170" height="100" as="geometry" />
+          <mxGeometry x="1432" y="286" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bepFt1xsst9h107KD6ks-10" value="Internal support" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;gradientColor=none;fontSize=16;rounded=1;shadow=0;strokeColor=default;align=center;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="630" y="-67" width="30" height="60" as="geometry" />
@@ -276,25 +276,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bepFt1xsst9h107KD6ks-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;shadow=0;strokeColor=default;strokeWidth=2;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="-40" width="20" height="300" as="geometry" />
+          <mxGeometry x="1760" y="-40" width="20" height="180" as="geometry" />
         </mxCell>
         <mxCell id="bepFt1xsst9h107KD6ks-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="bepFt1xsst9h107KD6ks-19" target="bepFt1xsst9h107KD6ks-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1508" y="649" />
+              <mxPoint x="1517" y="489" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bepFt1xsst9h107KD6ks-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="bepFt1xsst9h107KD6ks-19" target="bepFt1xsst9h107KD6ks-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1621" y="641" as="sourcePoint" />
+            <mxPoint x="1630" y="481" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1695" y="487" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bepFt1xsst9h107KD6ks-19" value="Internal support" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;gradientColor=none;fontSize=16;rounded=1;shadow=0;strokeColor=default;align=center;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1567" y="617" width="30" height="60" as="geometry" />
+          <mxGeometry x="1595" y="457" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bepFt1xsst9h107KD6ks-23" value="&lt;div&gt;Manage users&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1601" y="446" width="170" height="100" as="geometry" />
+          <mxGeometry x="1610" y="286" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bepFt1xsst9h107KD6ks-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="bepFt1xsst9h107KD6ks-30" target="RevIAESeMQVXkPuZwQy1-12">
           <mxGeometry relative="1" as="geometry" />
