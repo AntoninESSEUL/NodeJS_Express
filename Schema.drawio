@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="LwtyrS3WK_ljkUNi1cgM">
-    <mxGraphModel dx="1019" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1470" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aOAeQF0Wjegpi84AHOQ5-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%3Cstyle%3E+%40import+url(&#39;https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap&#39;)%3B+%3C%2Fstyle%3E&quot;&gt;BDD&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Sour Gummy;1,100..900&amp;display=swap&#39;); &lt;/style&gt;;fontSize=16;fontColor=default;labelBackgroundColor=default;strokeWidth=2;snapToPoint=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;" parent="1" vertex="1">
-          <mxGeometry x="780" y="170" width="80" height="120" as="geometry" />
+          <mxGeometry x="650" y="220" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VkoZAYC8j9W9dHgbqX4g-2" value="OS&amp;nbsp; " style="rounded=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;spacing=2;fontFamily=Sour Gummy;fontSize=16;fontColor=default;fontStyle=0;fillColor=default;html=1;whiteSpace=wrap;labelBorderColor=none;gradientColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;" parent="1" vertex="1">
           <mxGeometry x="1000" y="500" width="360" height="40" as="geometry" />
@@ -19,11 +19,63 @@
         <mxCell id="VkoZAYC8j9W9dHgbqX4g-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.ghr36cloud.com/docker.png;" parent="1" vertex="1">
           <mxGeometry x="1250" y="411.04" width="70" height="57.93" as="geometry" />
         </mxCell>
-        <mxCell id="VkoZAYC8j9W9dHgbqX4g-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;spacing=2;fontFamily=Sour Gummy;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;fillColor=default;gradientColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;" parent="1" vertex="1">
-          <mxGeometry x="990" y="160" width="300" height="200" as="geometry" />
+        <mxCell id="VkoZAYC8j9W9dHgbqX4g-9" value="Web app" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=top;spacing=2;fontFamily=Sour Gummy;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;fillColor=default;gradientColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;" parent="1" vertex="1">
+          <mxGeometry x="990" y="-20" width="360" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="VkoZAYC8j9W9dHgbqX4g-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=gap;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.006;entryY=0.366;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Lucida Console;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;startArrow=classic;startFill=1;" parent="1" source="aOAeQF0Wjegpi84AHOQ5-3" target="VkoZAYC8j9W9dHgbqX4g-9" edge="1">
+        <mxCell id="VkoZAYC8j9W9dHgbqX4g-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=gap;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Lucida Console;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;startArrow=classic;startFill=1;" parent="1" source="aOAeQF0Wjegpi84AHOQ5-3" target="EupUgoVLVKRCz6Iabv77-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="280" />
+              <mxPoint x="920" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EupUgoVLVKRCz6Iabv77-16" value="SQL request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" connectable="0" parent="VkoZAYC8j9W9dHgbqX4g-11">
+          <mxGeometry x="-0.32" y="-1" relative="1" as="geometry">
+            <mxPoint x="-5" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EupUgoVLVKRCz6Iabv77-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="EupUgoVLVKRCz6Iabv77-2" target="EupUgoVLVKRCz6Iabv77-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EupUgoVLVKRCz6Iabv77-8" value="GET / POST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" connectable="0" parent="EupUgoVLVKRCz6Iabv77-6">
+          <mxGeometry x="0.06" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EupUgoVLVKRCz6Iabv77-2" value="Frontend" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;spacing=2;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="30" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EupUgoVLVKRCz6Iabv77-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="EupUgoVLVKRCz6Iabv77-3" target="EupUgoVLVKRCz6Iabv77-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EupUgoVLVKRCz6Iabv77-9" value="JSON" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" connectable="0" parent="EupUgoVLVKRCz6Iabv77-7">
+          <mxGeometry x="-0.2154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EupUgoVLVKRCz6Iabv77-3" value="Backend" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;spacing=2;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="240" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EupUgoVLVKRCz6Iabv77-10" value="HTTP request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EupUgoVLVKRCz6Iabv77-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="EupUgoVLVKRCz6Iabv77-11" target="EupUgoVLVKRCz6Iabv77-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="180" />
+              <mxPoint x="935" y="180" />
+              <mxPoint x="935" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EupUgoVLVKRCz6Iabv77-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" connectable="0" parent="EupUgoVLVKRCz6Iabv77-12">
+          <mxGeometry x="-0.3064" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EupUgoVLVKRCz6Iabv77-11" value="Youtube&lt;div&gt;(video storage)&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;spacing=2;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
