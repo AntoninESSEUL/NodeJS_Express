@@ -111,7 +111,8 @@
         <mxCell id="EupUgoVLVKRCz6Iabv77-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;shadow=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" parent="1" source="EupUgoVLVKRCz6Iabv77-26" target="EupUgoVLVKRCz6Iabv77-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1591" y="122" />
+              <mxPoint x="1552" y="108" />
+              <mxPoint x="1552" y="122" />
               <mxPoint x="1381" y="122" />
               <mxPoint x="1381" y="90" />
             </Array>
